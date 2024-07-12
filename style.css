@@ -1,50 +1,39 @@
-.Nav_Image{
-    width: auto;
-    max-height:45px;
-}
-.navbar{
-    height:65px
-    z-index: 1030;
-}
-.img1{
-    max-height:  600px;
-    width:1400px;
-}
-.img2{
-    max-height:  600px;
-    width:1400px;
-}
-.img3{
-    max-height:  600px;
-    width:1400px;
-}
-.img4{
-    max-height:  600px;
-    width:1400px;
-}
-.aboutusimg{
-    max-height:auto;
-    width: 800px;
-}
-.card{
-    max-width:350px;
-    height:auto;
-    transition: all 0.5s;
-}
-.card:hover{
-    transform: translateY(-5px);
-}
-.cbg{ 
+    .Nav_Image{
+        width: auto;
+        max-height:45px;
+    }
+    .navbar{
+        height:65px   ; z-index: 1030;
+            
+    }
+    .img{
+        max-height:  700px;
+        width:1400px;
+    }
 
-    
-    background-size:cover ;
-    background-repeat: no-repeat;
-    width:100%;
-    height: 100%;
+    .aboutusimg{
+        max-height:auto;
+        width: 800px;
+    }
+    .card{
+        max-width:350px;
+        height:auto;
+        transition: all 0.5s;
+    }
+    .card:hover{
+        transform: translateY(-5px);
+    }
+    .cbg{ 
 
-}
-.form{
-    padding-top: 100px;
-    padding-left: 90px;
-    padding-bottom: 100px;
-}
+        
+        background-size:cover ;
+        background-repeat: no-repeat;
+        width:100%;
+        height: 100%;
+
+    }
+    .form{
+        padding-top: 100px;
+        padding-left: 90px;
+        padding-bottom: 100px;
+    }
