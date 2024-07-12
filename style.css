@@ -3,7 +3,8 @@
     max-height:45px;
 }
 .navbar{
-    height:65px
+    height:65px;
+    z-index: 1030;
 }
 .img1{
     max-height:  600px;
